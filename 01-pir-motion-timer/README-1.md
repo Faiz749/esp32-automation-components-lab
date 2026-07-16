@@ -68,4 +68,4 @@ LED cathode → ESP32 GND
 
 PIR sensors are commonly used in security systems, automatic lighting, occupancy detection, and smart-room automation.
 
-The timeout logic is useful because an output often needs to remain active for a short period after an event. This is similar to automatic lights that remain on briefly after a person leaves the detection area.
+The timeout logic is useful because an output often needs to remain active for a short period after an event.This is similar to automatic lights that remain on briefly after a person leaves the detection area.
