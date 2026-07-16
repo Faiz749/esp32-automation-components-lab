@@ -95,6 +95,6 @@ FLAME DETECTED → LED ON and buzzer ON
 
 Digital flame sensors can be used as basic safety inputs in embedded alarm and automation systems.
 
-This lab demonstrates how a microcontroller reads an active-low digital sensor, makes a safety decision, and activates visual and audible warning devices.
+This lab demonstrates how a microcontroller reads an active-low digital sensor, makes a safety decision, and activates visual and audible warning devices .
 
 It also demonstrates an important embedded-systems skill: adapting the software design according to the capabilities and limitations of the available hardware.
